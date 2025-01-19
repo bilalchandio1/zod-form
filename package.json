@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "next": "^15.1.5",
+    "zod": "^3.25.0-canary.20241210T225910"
+  },
+  "devDependencies": {
+    "@types/next": "^8.0.7"
+  }
+}
